@@ -1,9 +1,7 @@
 
-<p align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></p>
+<p align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" /></p>
 
-<p align="left"><img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" align="left" style="width: 2%" /></p>
-
-
+<img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" align="left" height="300" style="width: 100%" />
 
 
 
@@ -27,7 +25,7 @@
 
 ---  
 
-<img src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg" align="center" style="width: 100%" />
+<img src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg" align="center" height="300" style="width: 100%" />
 
 ---
 ## <div align="center">**My Skill Set**</div>  
