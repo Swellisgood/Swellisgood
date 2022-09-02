@@ -1,10 +1,17 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />
-</div>  
-  
+
+<p align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></p>
+
+<p align="left"><img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" align="left" style="width: 2%" /></p>
+
+
+
+
+
 ---
-### <div align="center">I'm Souhail, a Fundamental & Applied Physics major turned full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
+
+### <div align="center">Hi  !I'm Souhail, a Fundamental & Applied Physics major turned full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
+
 
 - 🔭 I’m currently working on my own Greenhouse Climate control and Automation RasPi module.  
   
@@ -14,9 +21,13 @@
 
 - ❓ Ask me about anything related to Physics, STEM sciences, Cryptocurrencies & Blockchain development and related technologies  
    
+
+
+
+
 ---  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center"/>
+<img src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg" align="center" style="width: 100%" />
 
 ---
 ## <div align="center">**My Skill Set**</div>  
@@ -80,6 +91,21 @@
 
 ---
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/@Swellisgood" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@Swellisgood" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/Swellisgood" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
    
 
