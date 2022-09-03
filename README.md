@@ -1,41 +1,42 @@
 
-<p align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></p>
-
-<img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" align="left" style="width: 35%" />
-
-
+<p align="center"><img src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg" align="center" style="width: 100%" /></p>
 
 ---
 
-### <div align="center">Hi  !I'm Souhail, a Fundamental & Applied Physics major turned full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
+<div align="center"><img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" align="center" style="width: 10%" /></div> 
+
+
+
+
+### <div align="center">Hi there 👋 ! I'm Souhail, a Fundamental & Applied Physics major turned full-stack freelance developer 👨‍💻 working remotely since 2021 🚀🚀🚀</div>  
   
 
+
+<p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 33%" /></p>
 
 - 🔭 I’m currently working on my own Greenhouse Climate control and Automation RasPi module.  
-  
+ 
 
 - 🌱 I’m currently developing skills in Data Science, Automation  
   
 
-- ❓ Ask me about anything related to Physics, STEM sciences, Cryptocurrencies & Blockchain development and related technologies  
+- ❓ Ask me about anything related to Physics, STEM fields, Cryptocurrencies & Blockchain development and related technologies  
    
-
-
-
+ 
 
 ---  
+<div align="left"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" /></div> 
 
-<img src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg" align="center" height="300" style="width: 100%" />
 
 ---
 
-## <div align="center">**My Skill Set**</div>  
+# <div align="center">**My Skill Set**</div>  
 
-<h3 align="center">Languages and Tools:</h3>
+## <h2 align="center">Languages and Tools:</h2>
 
 <table><tr><td valign="top" width="33%" >
 
-### <div align="center">Programming languages</div>  
+#### <div align="center">Programming languages</div>  
 <div align="center">
 <p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -51,7 +52,7 @@
 
 </td><td valign="top" width="33%">
 
-### <div align="center">Database Management</div> 
+#### <div align="center">Database Management</div> 
 <div align="center"> 
 <p align="center"> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
@@ -62,7 +63,7 @@
 
 
 
-### <div align="center">DevOps</div> 
+#### <div align="center">DevOps</div> 
 <div align="center">
 <p align="center">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
@@ -73,7 +74,7 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <p align="left">
 
-### <div align="center">AI/ML & Automation</div> 
+#### <div align="center">AI/ML & Automation</div> 
 
 <div align="center">
 <p align="center">
@@ -87,6 +88,8 @@
 
 </td></tr></table> 
 
+
+---
 
 ## Connect with me  
 <div align="center">
