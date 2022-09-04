@@ -6,7 +6,7 @@
 <div align="center"><img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" align="center" style="width: 10%" /></div> 
 
 
-<p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 20%" /></p>
+<p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 24%" /></p>
 
 ### <div align="center">Hi there 👋 ! I'm Souhail, a Fundamental & Applied Physics major turned full-stack freelance developer 👨‍💻 working remotely since 2021 🚀🚀🚀</div>  
   
