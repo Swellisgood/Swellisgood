@@ -1,12 +1,12 @@
 
-<p align="center"><img src="https://github.com/Swellisgood/Swellisgood/blob/main/Untitled%20design.jpg" align="center" style="width: 100%" /></p>
+<p align="center"><img src="https://github.com/Swellisgood/Swellisgood/blob/main/Untitled%20design.jpg" align="center" style="width:90%;height:60%;object-fit:contain" /></p>
 
 ---
 
 <div align="center"><img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" align="center" style="width: 10%" /></div> 
 
 
-<p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 25%" /></p>
+<p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 20%" /></p>
 
 ### <div align="center">Hi there 👋 ! I'm Souhail, a Fundamental & Applied Physics major turned full-stack freelance developer 👨‍💻 working remotely since 2021 🚀🚀🚀</div>  
   
@@ -33,7 +33,7 @@
 
 <table><tr><td valign="top" width="33%" >
 
-#### <div align="center">Programming languages</div>
+### <div align="center">Programming languages</div>
 
 <div align="center">
 <p align="center">
@@ -50,7 +50,7 @@
 
 </td><td valign="top" width="33%">
 
-#### <div align="center">Database Management</div>
+### <div align="center">Database Management</div>
 
 <div align="center"> 
 <p align="center"> 
@@ -60,7 +60,7 @@
 
 </td><td valign="top" width="33%">
 
-#### <div align="center">DevOps</div>
+### <div align="center">DevOps</div>
 
 <div align="center">
 <p align="center">
@@ -72,7 +72,7 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/> </a>
 <p align="left">
 
-#### <div align="center">AI/ML & Automation</div>
+### <div align="center">AI/ML & Automation</div>
 
 <div align="center">
 <p align="center">
