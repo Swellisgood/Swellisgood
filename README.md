@@ -6,12 +6,11 @@
 <div align="center"><img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" align="center" style="width: 10%" /></div> 
 
 
-<p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 24%" /></p>
 
-### <div align="center">Hi there 👋 ! I'm Souhail, a Fundamental & Applied Physics major turned full-stack freelance developer 👨‍💻 working remotely since 2021 🚀🚀🚀</div>  
-  
+## <div align="center">Hi there 👋 ! I'm Souhail, a Fundamental & Applied Physics major turned full-stack freelance developer 👨‍💻 working remotely since 2021 🚀🚀🚀</div>
 
 
+<p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 22%" /></p>
 
 - 🔭 I’m currently working on my own Greenhouse Climate control and Automation RasPi module.  
  
@@ -21,9 +20,8 @@
 
 - ❓ Ask me about anything related to Physics, STEM fields, Cryptocurrencies & Blockchain development and related technologies  
 
-   
 ---
- 
+
 <div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width:400px;height:270px;" /></div>
 
 
