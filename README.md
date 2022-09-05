@@ -1,11 +1,11 @@
 
-<p align="center"><img src="https://github.com/Swellisgood/Swellisgood/blob/main/Untitled%20design.jpg" align="center" style="width:90%;height:60%;object-fit:contain" /></p>
+<p align="center"><img src="Swellisgood/Swellisgood/Untitled design (1).jpg" align="center" style="width:90%;height:60%;object-fit:contain" /></p>
 
 ---
 
 <div align="center"><img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" align="center" style="width: 10%" /></div> 
 
-<p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 340px" /></p>
+<p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 20%" /></p>
 
 ## <div align="center">Hi there 👋 ! I'm Souhail, a Fundamental & Applied Physics major turned full-stack freelance developer 👨‍💻 working remotely since 2021 🚀🚀🚀</div>
 
