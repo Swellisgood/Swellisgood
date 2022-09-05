@@ -22,7 +22,7 @@
 
 # <div align="center">**My Skill Set**</div>
 
-<div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width:400px;height:270px;" /></div>
+<div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width:550px;height:350px;" /></div>
 
 ## <h2 align="center">Languages and Tools:</h2>
 
