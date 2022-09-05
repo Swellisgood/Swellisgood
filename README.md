@@ -1,5 +1,5 @@
 
-<p align="center"><img src="Swellisgood/Swellisgood/Untitled design (1).jpg" align="center" style="width:90%;height:60%;object-fit:contain" /></p>
+<p align="center"><img src="https://github.com/Swellisgood/Swellisgood/blob/main/Untitled%20design%20(1).jpg" align="center" style="width:90%;height:60%;object-fit:contain" /></p>
 
 ---
 
