@@ -7,15 +7,17 @@
 
 <p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 30%" /></p>
 
-## <div align="center">Hi there 👋 ! I'm Souhail, a Fundamental & Applied Physics major turned full-stack freelance developer 👨‍💻 working remotely since 2021 🚀🚀🚀</div>
+## <div align="center">Hi there 👋 ! I'm Souhail, a Fundamental & Applied Physics major turned full-stack freelance developer with a passion for AI, machine learning, cryptocurrencies and blockchain. 👨‍💻 Working remotely since 2021 🚀🚀🚀</div>
 
 - 🔭 I’m currently working on my own Greenhouse Climate control and Automation RasPi module.  
  
 
-- 🌱 I’m currently developing skills in Data Science, Automation  
+- 🌱 I’m currently developing skills in Data Science, Automation.  
   
 
-- ❓ Ask me about anything related to Physics, STEM fields, Cryptocurrencies & Blockchain development and related technologies  
+- ❓ Ask me about anything related to Physics, STEM fields, Cryptocurrencies & Blockchain development and related technologies.
+
+-  I love writing about all things tech, so you can follow me on Twitter or Medium @swellisgood for tweets & articles about data science, web3 and software programming.
 
 ---
 
