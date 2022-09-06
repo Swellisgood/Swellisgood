@@ -5,19 +5,23 @@
 
 <div align="center"><img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" align="center" style="width: 10%" /></div> 
 
-<p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 30%" /></p>
+<p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 27%" /></p>
 
-## <div align="center">Hi there 👋 ! I'm Souhail, a Fundamental & Applied Physics major turned full-stack freelance developer with a passion for AI, machine learning, cryptocurrencies and blockchain. 👨‍💻 Working remotely since 2021 🚀🚀🚀</div>
+## <div align="center">Hi there 👋 ! I'm Souhail, a Fundamental & Applied Physics major turned data scientist & full-stack freelance developer with a passion for AI, machine learning, cryptocurrencies and blockchain. 👨‍💻 Working remotely since 2021 🚀🚀🚀</div>
+
+- 💻 I do research in Cryptography (ZK-proof), Ethereum, L2 scaling solutions and more!
 
 - 🔭 I’m currently working on my own Greenhouse Climate control and Automation RasPi module.  
- 
 
 - 🌱 I’m currently developing skills in Data Science, Automation.  
-  
+
+<p align="left"><img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" align="right" style="float:right; width: 30%" /></p>
 
 - ❓ Ask me about anything related to Physics, STEM fields, Cryptocurrencies & Blockchain development and related technologies.
 
--  I love writing about all things tech, so you can follow me on Twitter or Medium @swellisgood for tweets & articles about data science, web3 and software programming.
+- 📗 I love writing about all things tech, so you can follow me on Twitter or Medium @swellisgood for tweets & articles about data science, web3 and software programming.
+
+- ✨ Challenging myself & learning new things are paramount, so I am always eager to try new technologies. I've worked with Javascript, Python, Solidity, Rust, C++ and many other programming languages.
 
 ---
 
