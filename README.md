@@ -3,7 +3,7 @@
 
 ---
 
-<p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 27%" /></p>
+<p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 29%" /></p>
 
 ## <div align="center">Hi there 👋 ! I'm Souhail, a Fundamental & Applied Physics major turned data scientist & full-stack freelance developer with a passion for AI, machine learning, cryptocurrencies and blockchain. 👨‍💻 Working remotely since 2021 🚀🚀🚀</div>
 
