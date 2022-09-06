@@ -28,13 +28,11 @@
 
 # <div align="center">**My Skill Set**</div>
 
-<div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width:550px;height:350px;" /></div>
-
 ## <h2 align="center">Languages and Tools:</h2>
 
-<table><tr><td valign="top" width="33%" >
+<table><tr><td valign="top" width="33%">
 
-### <div align="center">Programming languages</div>
+## <div align="center">Programming languages</div>
 
 <div align="center">
 <p align="center">
@@ -51,7 +49,7 @@
 
 </td><td valign="top" width="33%">
 
-### <div align="center">Database Management</div>
+## <div align="center">Database Management</div>
 
 <div align="center"> 
 <p align="center"> 
@@ -61,7 +59,7 @@
 
 </td><td valign="top" width="33%">
 
-### <div align="center">DevOps</div>
+## <div align="center">DevOps</div>
 
 <div align="center">
 <p align="center">
@@ -73,7 +71,7 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="70" height="70"/> </a>
 <p align="left">
 
-### <div align="center">AI/ML & Automation</div>
+## <div align="center">AI/ML & Automation</div>
 
 <div align="center">
 <p align="center">
@@ -89,7 +87,7 @@
 
 ---
 
-## Connect with me
+### Connect with me
 
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
@@ -106,7 +104,7 @@
 </a>  
 </div>
 
-## Github Stats
+### Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Swellisgood&show_icons=true&count_private=true&hide_border=true" align="center" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swellisgood&" alt="swellisgood" /></p>
