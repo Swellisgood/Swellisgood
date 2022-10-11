@@ -3,7 +3,6 @@
 
 ---
 
-<p align="left"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" align="left" style="width: 29%" /></p>
 
 ## <div align="center">Hi there 👋 ! I'm Souhail, a Fundamental & Applied Physics major turned data scientist & full-stack freelance developer with a passion for AI, machine learning, cryptocurrencies and blockchain. 👨‍💻 Working remotely since 2021 🚀🚀🚀</div>
 
@@ -12,8 +11,6 @@
 - 🔭 I’m currently working on my own Greenhouse Climate control and Automation RasPi module.  
 
 - 🌱 I’m currently developing skills in Data Science, Automation.  
-
-<p align="left"><img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" align="right" style="float:right; width: 30%" /></p>
 
 - ❓ Ask me about anything related to Physics, STEM fields, Cryptocurrencies & Blockchain development and related technologies.
 
