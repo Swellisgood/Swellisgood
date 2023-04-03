@@ -4,20 +4,49 @@
 ---
 
 
-## <div align="center">Hi there 👋 ! I'm Souhail, a Fundamental & Applied Physics major turned data scientist & full-stack freelance developer with a passion for AI, machine learning, cryptocurrencies and blockchain. 👨‍💻 Working remotely since 2021 🚀🚀🚀</div>
+## <div align="center">Hi there 👋 ! My name is Souhail and I am a data scientist and full-stack freelance developer with a background in Fundamental & Applied Physics. I have a passion for AI, machine learning, cryptocurrencies, and blockchain. Since 2021, I have been working remotely and exploring various technologies in my spare time.
 
-- 💻 I do research in Cryptography (ZK-proof), Ethereum, L2 scaling solutions and more!
+## What I'm working on 🔭
+Currently, I am working on :
+- Greenhouse Climate Control and Automation RasPi module. I am excited to develop this project as it combines my interests in hardware and software.
+- Predicting Credit Card Fraud: I am currently working on a machine learning model to predict credit card fraud for a financial institution. The project involves imbalanced class handling, feature selection, and hyperparameter tuning. I am excited to continue working on this project and improving the model's performance in predicting fraudulent transactions.
+- Forecasting Energy Demand: I recently developed a time series forecasting model to predict energy demand for a utility company. The project involved data preprocessing, feature engineering, and time series modeling techniques such as ARIMA and Prophet. I am continuing to refine the model and explore new methods to improve its accuracy and performance.
+            
+## What I'm learning 🌱
+I am currently focused on developing my skills in Data Science and Automation. I am constantly seeking new learning opportunities to stay up-to-date with the latest trends and technologies. Also, some other miscellaneous journeys i am currently undertaking are :
 
-- 🔭 I’m currently working on my own Greenhouse Climate control and Automation RasPi module.  
+### My Journey with Vim and Personal Development Environment
+- Learned the importance of a personalized development environment 🚀
+- Mastered Vim for faster and more efficient coding 💻
+- Honed skills in configuring and customizing Vim, such as creating custom key mappings, installing and managing plugins, and using the command line interface to navigate and edit files 🛠️
+- Explored other tools and techniques for personalizing my development environment, such as using tmux for terminal multiplexing and creating custom scripts for automation 🤖
+### Learning Rust
+- Exploring Rust for its performance, memory safety, and concurrency features 🚀
+- Drawn to Rust's focus on writing fast and reliable code 💪
+- Impressed by its modern syntax and unique features, such as ownership and borrowing 🤯
+- Excited to continue exploring Rust's potential for building high-performance software. 💻
 
-- 🌱 I’m currently developing skills in Data Science, Automation.  
+## Ask me about ❓
+If you have any questions related to Physics, STEM fields, Cryptocurrencies & Blockchain development, or related technologies, feel free to ask me. I am always happy to share my knowledge and engage in discussions.
 
-- ❓ Ask me about anything related to Physics, STEM fields, Cryptocurrencies & Blockchain development and related technologies.
+## Connect with me
+📗 I love writing about all things tech, so you can follow me on Twitter or Medium @swellisgood for tweets & articles about data science, web3, and software programming.
 
-- 📗 I love writing about all things tech, so you can follow me on Twitter or Medium @swellisgood for tweets & articles about data science, web3 and software programming.
+## Technologies I've worked with ✨
+I am always eager to challenge myself and learn new things. Over the years, I have worked with various programming languages, including Javascript, Python, Solidity, Rust, C++, and many others.
 
-- ✨ Challenging myself & learning new things are paramount, so I am always eager to try new technologies. I've worked with Javascript, Python, Solidity, Rust, C++ and many other programming languages.
+### Greenhouse Climate Control and Automation RasPi Module
+My current project involves building a climate control and automation module for a greenhouse using a Raspberry Pi. The module will be designed to monitor and control various environmental factors such as temperature, humidity, and CO2 levels to ensure optimal conditions for plant growth. Some of the features that I plan to include in the module are:
 
+- Real-time monitoring and data logging of environmental conditions
+- Automated control of heating, cooling, and ventilation systems
+- Integration with a water irrigation system for automatic watering
+- User interface for manual control and data visualization
+- Remote monitoring and control using a web-based interface
+
+I believe that this project has a lot of potential for improving the efficiency and productivity of small-scale agriculture, and I am excited to see how it develops.  The project also allows me to combine my interests in hardware and software, as I will be using both in the development and implementation of the module. I plan to share updates and progress on this project on my GitHub.
+
+            
 <div align="center"><img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" align="center" style="width: 20%" /></div> 
 
 ---
@@ -33,11 +62,8 @@
 
 <div align="center">
 <p align="center">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> </a>
 <a href="https://www.cplusplus.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="70" height="70"/></a>  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="65" height="65"/> </a> 
-<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="70" height="70"/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="70" height="70"/> </a> 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="70" height="70"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> 
