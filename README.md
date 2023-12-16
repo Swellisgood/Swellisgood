@@ -4,8 +4,7 @@
 ---
 
 
-## <div align="center">Hi there 👋 ! My name is Souhail and I am a data scientist and full-stack freelance developer with a background in Fundamental & Applied Physics. I have a passion for AI, machine learning, cryptocurrencies, and blockchain. Since 2021, I have been working remotely and exploring various technologies in my spare time.
-
+## <div align="center">Hi there 👋 ! My name is Souhail and I am a data scientist and full-stack freelance developer with a background in Fundamental & Applied Physics. I have a passion for AI, machine learning, cryptocurrencies, and blockchain. 
 ## What I'm working on 🔭
 Currently, I am working on :
 - Greenhouse Climate Control and Automation RasPi module. I am excited to develop this project as it combines my interests in hardware and software.
@@ -13,7 +12,7 @@ Currently, I am working on :
 - Forecasting Energy Demand: I recently developed a time series forecasting model to predict energy demand for a utility company. The project involved data preprocessing, feature engineering, and time series modeling techniques such as ARIMA and Prophet. I am continuing to refine the model and explore new methods to improve its accuracy and performance.
             
 ## What I'm learning 🌱
-I am currently focused on developing my skills in Data Science and Automation. I am constantly seeking new learning opportunities to stay up-to-date with the latest trends and technologies. Also, some other miscellaneous journeys i am currently undertaking are :
+Miscellaneous journeys i am currently undertaking are :
 
 ### My Journey with Vim and Personal Development Environment
 - Learned the importance of a personalized development environment 🚀
@@ -26,14 +25,11 @@ I am currently focused on developing my skills in Data Science and Automation. I
 - Impressed by its modern syntax and unique features, such as ownership and borrowing 🤯
 - Excited to continue exploring Rust's potential for building high-performance software. 💻
 
-## Ask me about ❓
-If you have any questions related to Physics, STEM fields, Cryptocurrencies & Blockchain development, or related technologies, feel free to ask me. I am always happy to share my knowledge and engage in discussions.
-
 ## Connect with me
 📗 I love writing about all things tech, so you can follow me on Twitter or Medium @swellisgood for tweets & articles about data science, web3, and software programming.
 
 ## Technologies I've worked with ✨
-I am always eager to challenge myself and learn new things. Over the years, I have worked with various programming languages, including Javascript, Python, Solidity, Rust, C++, and many others.
+Javascript, Python, Solidity, Rust, C++, and many others.
 
 ### Greenhouse Climate Control and Automation RasPi Module
 My current project involves building a climate control and automation module for a greenhouse using a Raspberry Pi. The module will be designed to monitor and control various environmental factors such as temperature, humidity, and CO2 levels to ensure optimal conditions for plant growth. Some of the features that I plan to include in the module are:
