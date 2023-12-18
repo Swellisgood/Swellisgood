@@ -22,11 +22,7 @@ Currently, I am working on :
 ## Technologies I've worked with ✨
 Python, Solidity, Rust, C++, Javascript ...
 
-            
-<div align="center"><img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" align="center" style="width: 20%" /></div> 
-
 ---
-
 
 # <div align="center">**My Skill Set**</div>
 
