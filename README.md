@@ -7,18 +7,9 @@
 ## <div align="center">Hi there 👋 ! My name is Souhail and I am a data scientist and full-stack freelance developer with a background in Fundamental & Applied Physics. I have a passion for AI, machine learning, cryptocurrencies, and blockchain. 
 ## What I'm working on 🔭
 Currently, I am working on :
-- Greenhouse Climate Control and Automation RasPi module. I am excited to develop this project as it combines my interests in hardware and software.
 - Predicting Credit Card Fraud: I am currently working on a machine learning model to predict credit card fraud for a financial institution. The project involves imbalanced class handling, feature selection, and hyperparameter tuning. I am excited to continue working on this project and improving the model's performance in predicting fraudulent transactions.
 - Forecasting Energy Demand: I recently developed a time series forecasting model to predict energy demand for a utility company. The project involved data preprocessing, feature engineering, and time series modeling techniques such as ARIMA and Prophet. I am continuing to refine the model and explore new methods to improve its accuracy and performance.
             
-## What I'm learning 🌱
-Miscellaneous journeys i am currently undertaking are :
-
-### My Journey with Vim and Personal Development Environment
-- Learned the importance of a personalized development environment 🚀
-- Mastered Vim for faster and more efficient coding 💻
-- Honed skills in configuring and customizing Vim, such as creating custom key mappings, installing and managing plugins, and using the command line interface to navigate and edit files 🛠️
-- Explored other tools and techniques for personalizing my development environment, such as using tmux for terminal multiplexing and creating custom scripts for automation 🤖
 ### Learning Rust
 - Exploring Rust for its performance, memory safety, and concurrency features 🚀
 - Drawn to Rust's focus on writing fast and reliable code 💪
@@ -29,7 +20,7 @@ Miscellaneous journeys i am currently undertaking are :
 📗 I love writing about all things tech, so you can follow me on Twitter or Medium @swellisgood for tweets & articles about data science, web3, and software programming.
 
 ## Technologies I've worked with ✨
-Javascript, Python, Solidity, Rust, C++, and many others.
+Python, Solidity, Rust, C++, Javascript ...
 
             
 <div align="center"><img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" align="center" style="width: 20%" /></div> 
