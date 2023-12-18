@@ -11,16 +11,13 @@ Currently, I am working on :
 - Forecasting Energy Demand: I recently developed a time series forecasting model to predict energy demand for a utility company. The project involved data preprocessing, feature engineering, and time series modeling techniques such as ARIMA and Prophet. I am continuing to refine the model and explore new methods to improve its accuracy and performance.
             
 ### Learning Rust
-- Exploring Rust for its performance, memory safety, and concurrency features 🚀
-- Drawn to Rust's focus on writing fast and reliable code 💪
-- Impressed by its modern syntax and unique features, such as ownership and borrowing 🤯
+- Performance, memory safety, and concurrency features 🚀
+- Rust focuses on writing fast and reliable code 💪
+- Modern syntax and unique features, such as ownership and borrowing 🤯
 - Excited to continue exploring Rust's potential for building high-performance software. 💻
 
 ## Connect with me
 📗 I love writing about all things tech, so you can follow me on Twitter or Medium @swellisgood for tweets & articles about data science, web3, and software programming.
-
-## Technologies I've worked with ✨
-Python, Solidity, Rust, C++, Javascript ...
 
 ---
 
@@ -40,7 +37,6 @@ Python, Solidity, Rust, C++, Javascript ...
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="70" height="70"/> </a>
 
 </td><td valign="top" width="33%">
 
