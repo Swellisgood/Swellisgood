@@ -79,21 +79,6 @@
 </a>  
 </div>
 
-### Github Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Swellisgood&show_icons=true&count_private=true&hide_border=true" align="center" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swellisgood&" alt="swellisgood" /></p>
-</div>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Swellisgood&&style=plastic&color=brightgreen" align="center" />
-</div>  
-<div align="center">
-            <a href="https://paypal.me/swellisgood" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-brightgreen.svg?style=plastic&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
 <br/>
 
 
