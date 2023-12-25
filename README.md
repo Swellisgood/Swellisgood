@@ -8,8 +8,6 @@
 
 ---
 
-# <div align="center">**My Skill Set**</div>
-
 ## <h2 align="center">Languages and Tools:</h2>
 
 <table><tr><td valign="top" width="33%">
