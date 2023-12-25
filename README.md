@@ -1,20 +1,7 @@
-
-<p align="center"><img src="https://github.com/Swellisgood/Swellisgood/blob/main/Untitled%20design%20(1).jpg" align="center" style="width:100%;height:70%;object-fit:contain" /></p>
-
 ---
 
 
 ## <div align="center">Hi there 👋 ! My name is Souhail and I am a data scientist and full-stack freelance developer with a background in Fundamental & Applied Physics. I have a passion for AI, machine learning, cryptocurrencies, and blockchain. 
-## What I'm working on 🔭
-Currently, I am working on :
-- Predicting Credit Card Fraud: I am currently working on a machine learning model to predict credit card fraud for a financial institution. The project involves imbalanced class handling, feature selection, and hyperparameter tuning. I am excited to continue working on this project and improving the model's performance in predicting fraudulent transactions.
-- Forecasting Energy Demand: I recently developed a time series forecasting model to predict energy demand for a utility company. The project involved data preprocessing, feature engineering, and time series modeling techniques such as ARIMA and Prophet. I am continuing to refine the model and explore new methods to improve its accuracy and performance.
-            
-### Learning Rust
-- Performance, memory safety, and concurrency features 🚀
-- Rust focuses on writing fast and reliable code 💪
-- Modern syntax and unique features, such as ownership and borrowing 🤯
-- Excited to continue exploring Rust's potential for building high-performance software. 💻
 
 ## Connect with me
 📗 I love writing about all things tech, so you can follow me on Twitter or Medium @swellisgood for tweets & articles about data science, web3, and software programming.
@@ -34,7 +21,6 @@ Currently, I am working on :
 <a href="https://www.cplusplus.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="70" height="70"/></a>  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="65" height="65"/> </a> 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="70" height="70"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a> 
 
