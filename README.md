@@ -1,6 +1,5 @@
 ---
 
-
 ## <div align="center">Data scientist and hobbyist software developer with a background in Fundamental & Applied Physics. Passionate about AI, machine learning, cryptocurrencies, and blockchain. 
 
 ## Connect with me
@@ -10,64 +9,34 @@
 
 ## <h2 align="center">Languages and Tools:</h2>
 
-<table><tr><td valign="top" width="33%">
-
-## <div align="center">Programming languages</div>
-
-<div align="center">
 <p align="center">
-<a href="https://www.cplusplus.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="70" height="70"/></a>  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="65" height="65"/> </a> 
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="70" height="70"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> 
+  
+<img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/-Kubernetes-cyan?style=flat-square&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 
-</td><td valign="top" width="33%">
-
-## <div align="center">Database Management</div>
-
-<div align="center"> 
-<p align="center"> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="70" height="70"/> </a>
-
-</td><td valign="top" width="33%">
-
-## <div align="center">DevOps</div>
-
-<div align="center">
+</p>
 <p align="center">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="70" height="70"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="70" height="70"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="70" height="70"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="70" height="70"/> </a>
-
-<p align="left">
-
-## <div align="center">AI/ML & Automation</div>
-
-<div align="center">
-<p align="center">
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="70" height="70"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a>   
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="70" height="70"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="70" height="70"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="70" height="70"/> </a> 
-<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="70" height="70"/> </a> </p>
-</div>
-
-</td></tr></table>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+</p>
 
 ---
 
 ### Connect with me
 
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/Swellisgood" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/@Swellisgood" target="_blank">
