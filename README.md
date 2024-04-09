@@ -12,8 +12,6 @@
 <p align="center">
   
 <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker"/>
 <img src="https://img.shields.io/badge/-Kubernetes-cyan?style=flat-square&logo=kubernetes"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
@@ -24,11 +22,19 @@
 <img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 
+WebDev :
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+</p>
+
+Currently learning : 
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus"/>
 </p>
 
 ---
