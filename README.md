@@ -15,16 +15,16 @@
 <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker"/>
 <img src="https://img.shields.io/badge/-Kubernetes-cyan?style=flat-square&logo=kubernetes"/>
 <img src="https://img.shields.io/badge/-Ansible-grey?style=flat-square&logo=ansible"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
-<img src="https://img.shields.io/badge/-DuckDB-black?style=flat-square&logo=duckdb"/>
-
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
+<img src="https://img.shields.io/badge/-DuckDB-black?style=flat-square&logo=duckdb"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 
 
 WebDev :
