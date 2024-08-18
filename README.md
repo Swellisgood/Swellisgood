@@ -2,9 +2,6 @@
 
 ## <div align="center">Data scientist and hobbyist software developer with a background in Fundamental & Applied Physics. Passionate about AI, machine learning, cryptocurrencies, and blockchain. 
 
-## Connect with me
-📗 I love writing about all things tech, so you can follow me on Twitter or Medium @swellisgood for tweets & articles about data science, web3, and software programming.
-
 ---
 
 ## <h2 align="center">Languages and Tools:</h2>
