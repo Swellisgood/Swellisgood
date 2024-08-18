@@ -2,8 +2,6 @@
 
 ## <div align="center">Data scientist and hobbyist software developer with a background in Fundamental & Applied Physics. Passionate about AI, machine learning, cryptocurrencies, and blockchain. 
 
----
-
 ## <h2 align="center">Languages and Tools:</h2>
 
 <p align="center">
